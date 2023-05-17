@@ -2,7 +2,7 @@
 
 Creating my first Unreal Engine 5 game in C++.
 
-![Infected](https://github.com/WedgeManWik/Infected-Readme-Website/blob/main/Infected.PNG?raw=true)
+![Elementor](https://github.com/WedgeManWik/Elementor-Readme-Website/blob/main/ElementorCover.PNG?raw=true)
 
 This game was created for one of my end of year University assignments. We were learning and getting introduced to using Unreal Engine 5, which I found to be a very interesting learning experience. With the various tools provided by Unreal, help from lecturers and some video tutorials I managed to create this game in 13 weeks.
 
